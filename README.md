@@ -4,7 +4,7 @@ Artificial Neural Networks and Deep Learning competition 2022/2023 - Politecnico
 
 ## Description
 
-The purpose of this challenge was to correctly classify samples in the multivariate time series format, mapping the information contained in their features calculated over time to 12 labels. In this report, we discuss, explore and compare our development and design process.
+The purpose of this challenge was to correctly classify samples in the multivariate time series format, mapping the information contained in their features calculated over time to 12 labels. Our implementation involved a trial-and-error approach, using different architectures, optimization techniques and experimenting with the available tools.
 
 ## 👤 Team
 
